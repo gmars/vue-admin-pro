@@ -2,7 +2,7 @@
 Solution for company middle and backstage, written using the vue and nuxtjs
 
 # 介绍
-vue-admin-pro是一个企业中后台的前端解决方案。该方案使用了vue、nuxtjs。在设计上的参考目标是阿里使用ant design设计的ant design pro。
+vue-admin-pro是一个企业中后台的前端解决方案。该方案使用了vue、nuxtjs。在设计上的参考目标是阿里使用ant design设计的ant design pro。在线查看地址[http://vueadmin.sikukeji.com](http://vueadmin.sikukeji.com)
 
 ![首页](http://common.qiniu.sikukeji.com/004.png)
 
