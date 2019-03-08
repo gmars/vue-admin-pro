@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{906:function(e,n,t){"use strict";t.r(n);var s={components:{},created:function(){this.$router.push("/dashboard/analysis")}},i=t(4),o=Object(i.a)(s,function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("router-view")],1)},[],!1,null,null,null);o.options.__file="index.vue";n.default=o.exports}}]);
